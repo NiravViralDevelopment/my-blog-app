@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{ asset('blog/assets/css/demo13.css')}}">
+<link rel="stylesheet" href="{{ asset('blog/assets/css/block13.css')}}">
 <div class="py-5 demo13">
     <div class="container">
         <div class="row">

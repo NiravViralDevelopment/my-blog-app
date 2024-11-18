@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="{{ asset('blog/assets/css/servicelist.css')}}">
+<link rel="stylesheet" href="{{ asset('blog/assets/css/blocks7.css')}}">
 <div class="py-5 servicelist">
     <div class="container">
         <div class="row gx-5">

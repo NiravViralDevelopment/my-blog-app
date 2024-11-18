@@ -14,17 +14,17 @@
     <a href="{{ route('blocks-three')}}">Page 3</a>
     <a href="{{ route('blocks-four')}}">Page 3</a>
 
-    <section class="wow fadeInDown" data-wow-delay="0.1s">
-        @include('components.block1.block1')
+    <!-- Block 4 -->
+    <section class="wow fadeInRight" data-wow-delay=".5s">
+        @include('components.blog-post-single-para.index')
     </section>
 
-    <section class="wow fadeInLeft" data-wow-delay="0.8s">
-        @include('components.block7.block7')
+    <!-- Block 8-->
+    <section class="wow fadeInRight" data-wow-delay=".5s">
+        @include('components.blog-post-two.index')
     </section>
 
-    <section class="wow fadeInDown" data-wow-delay="2s">
-        @include('components.block13.block13')
-    </section>
+
 
     <script src="{{ asset('blog/assets/js/jquery.min.js')}}"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>

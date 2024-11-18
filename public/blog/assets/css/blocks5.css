@@ -1,0 +1,21 @@
+.service-box-rectangle { text-align: center; position: relative; }
+
+.service-box-rectangle-content { text-align: center; }
+.service-box-rectangle-img img { width: 100%; }
+.service-box-rectangle-content { position: absolute; left: 0; bottom: 0; width: 100%; padding: 15px; text-align: center; }
+
+.service-box-rectangle-content h4 {
+	color: #000 !important;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.service-box-rectangle-content h4 a {
+	color: #000 !important;
+	text-decoration: none;
+}
+
+.service-box-rectangle-content h4 a:hover {
+	color: var(--bs-blue) !important;
+}
+

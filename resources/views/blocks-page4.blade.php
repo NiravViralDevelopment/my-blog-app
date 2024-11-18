@@ -14,16 +14,17 @@
     <a href="{{ route('blocks-three')}}">Page 3</a>
     <a href="{{ route('blocks-four')}}">Page 3</a>
 
-    <section class="wow fadeInDown" data-wow-delay="0.1s">
-        @include('components.block1.block1')
+    <!-- Block 4 -->
+    <section class="wow fadeInDown" data-wow-delay=".5s">
+        @include('components.service-list-box-circle.index')
     </section>
-
-    <section class="wow fadeInLeft" data-wow-delay="0.8s">
-        @include('components.block7.block7')
+    <!-- Block 5 -->
+    <section class="wow fadeInUp" data-wow-delay=".5s">
+        @include('components.service-box-rectangle.index')
     </section>
-
-    <section class="wow fadeInDown" data-wow-delay="2s">
-        @include('components.block13.block13')
+    <!-- Block 6 -->
+    <section class="wow fadeInLeft" data-wow-delay=".5s">
+        @include('components.service-box-list-rectangle.index')
     </section>
 
     <script src="{{ asset('blog/assets/js/jquery.min.js')}}"></script>
