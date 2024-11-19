@@ -1,0 +1,19 @@
+.blog-post-rectangle .text-column h5 {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+}
+
+.blog-post-rectangle .text-column h5 a {
+  color: #000;
+  text-decoration: none;
+}
+
+.blog-post-rectangle .text-column h5 a:hover {
+  color: var(--bs-blue) !important;
+}
+
+.blog-post-rectangle  .text-column p {
+    font-size:12px ;
+    line-height: 16px;
+}

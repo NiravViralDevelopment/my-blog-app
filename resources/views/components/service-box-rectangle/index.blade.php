@@ -1,6 +1,4 @@
-
-<link href="components/service-box-rectangle/style.css" rel="stylesheet">
-
+<link rel="stylesheet" href="{{ asset('blog/assets/css/blocks5.css')}}">
 <div class="py-5 demo5">
     <div class="container text-center">
         <div class="row">

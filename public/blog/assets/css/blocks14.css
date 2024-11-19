@@ -1,0 +1,24 @@
+.service-unorder-list {
+    border: 1px solid #C9C9C9;
+}
+
+.service-unorder-list h3 {
+    background: #D9D9D9;
+    padding: 10px;
+    text-align: center;
+    color: #000;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.service-unorder-list-content {
+    padding: 20px;
+    color: #000;
+    font-size: 16px;
+}
+
+.service-unorder-list-content li a {
+    color: #000;
+    text-decoration: none;
+}
+

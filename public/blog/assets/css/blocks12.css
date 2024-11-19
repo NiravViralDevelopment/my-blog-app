@@ -1,0 +1,4 @@
+.blog-post-fullwidth-content p { color: #000; }
+.blog-post-fullwidth-content h4 { color: #000; font-weight: bold; font-size: 24px; margin-bottom: 25px; }
+.blog-post-fullwidth-content h4 a { color: #000; text-decoration: none; }
+.blog-post-fullwidth-content h4 a:hover { color: var(--bs-blue) !important; }

@@ -1,4 +1,3 @@
-
 <link rel="stylesheet" href="{{ asset('blog/assets/css/blocks5.css')}}">
 <div class="py-5 demo6">
     <div class="container text-center">

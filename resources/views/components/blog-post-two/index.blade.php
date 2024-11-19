@@ -1,6 +1,4 @@
-
 <link rel="stylesheet" href="{{ asset('blog/assets/css/blocks8.css')}}">
-
 <div class="py-5 blog-post-two-row">
     <div class="container">
         <div class="row">
